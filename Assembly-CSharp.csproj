@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E5C00A68-E6DB-FEA3-938C-F34D364EA738}</ProjectGuid>
+    <ProjectGuid>{705B4489-5A78-72E7-D50F-2AE20E3AFE11}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -81,19 +81,19 @@
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -297,7 +297,7 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.21f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.21f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -647,11 +647,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{191A1653-EF33-EA9B-F9EC-AA375EA9554E}</Project>
+      <Project>{E494AABC-FFA6-D51A-E8F3-DD92DADF2B7F}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaEditorScripts.csproj">
-      <Project>{1D5CA9FB-1D65-9944-553F-F23A7A8EDEF0}</Project>
+      <Project>{EE8C7AAF-9374-7993-CA37-57D8AE3C8168}</Project>
       <Name>VuforiaEditorScripts</Name>
     </ProjectReference>
   </ItemGroup>

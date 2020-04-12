@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1D5CA9FB-1D65-9944-553F-F23A7A8EDEF0}</ProjectGuid>
+    <ProjectGuid>{EE8C7AAF-9374-7993-CA37-57D8AE3C8168}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VuforiaEditorScripts</AssemblyName>
@@ -308,19 +308,19 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.21f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/admin/Desktop/anva project 4900/part 1/test/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>/Users/admin/Desktop/anva project 4900/full project/AR Lecture/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.21f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -679,7 +679,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{191A1653-EF33-EA9B-F9EC-AA375EA9554E}</Project>
+      <Project>{E494AABC-FFA6-D51A-E8F3-DD92DADF2B7F}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{705B4489-5A78-72E7-D50F-2AE20E3AFE11}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/DisplayScript.cs">
+    <Files>
+      <File FileName="Assets/scripts/DisplayScript.cs" Line="20" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR Lecture" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="DisplayScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AR Lecture" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="747eca92-de85-4dad-828e-318062c1c824" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
